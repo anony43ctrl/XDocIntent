@@ -43,6 +43,6 @@ which consists of four news categories:
 - Sci/Tech
 
 ## Conclusion
-# This project demonstrates the fundamental principles behind
-# Transformer models and provides insights into their internal
-# mechanics for natural language processing tasks.
+This project demonstrates the fundamental principles behind
+Transformer models and provides insights into their internal
+mechanics for natural language processing tasks.
